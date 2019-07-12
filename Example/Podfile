@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'APCollectionViewPagingLayout_Example' do
+  pod 'APCollectionViewPagingLayout', :path => '../'
+
+  target 'APCollectionViewPagingLayout_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
