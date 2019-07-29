@@ -1,0 +1,6 @@
+framework module APCollectionViewPagingLayout {
+  umbrella header "APCollectionViewPagingLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

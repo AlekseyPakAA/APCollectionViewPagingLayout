@@ -1,0 +1,16 @@
+PODS:
+  - APCollectionViewPagingLayout (0.1.0)
+
+DEPENDENCIES:
+  - APCollectionViewPagingLayout (from `../`)
+
+EXTERNAL SOURCES:
+  APCollectionViewPagingLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  APCollectionViewPagingLayout: 2aa456b505c04a09ac5ca0661fb40cbac702aa57
+
+PODFILE CHECKSUM: 68e7b89de8f1d46fc50ce3b443d6225a8263b52b
+
+COCOAPODS: 1.7.2
